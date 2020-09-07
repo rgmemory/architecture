@@ -1,0 +1,37 @@
+.header-display{
+    background-color: #333333;
+    color: #3F3F3F;
+    border: solid black 1px;
+  }
+
+
+  .header-item{
+      padding: 5px;
+      font-size: 15px;
+      font-family: arial, verdana, georgia;
+  }
+
+  .header-item:hover{
+    background-color: #333333;
+    color: #3F3F3F;
+    border: solid black 1px;
+  }
+
+  .potential{
+      width: 400px;
+  }
+
+  .potential:hover
+
+  .headerpotential{
+      color: black;
+    }
+   
+   
+   
+   
+   
+ /* textDecoration: none;
+    cursor: pointer;
+    fontSize: 15;
+    fontFamily: arial, verdana, georgia; */

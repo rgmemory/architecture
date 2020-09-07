@@ -1,0 +1,26 @@
+p {
+  font-size: 14px;
+  font-family: arial, verdana, georgia;
+
+}
+
+h4{
+  font-family: arial, verdana, georgia;
+}
+
+.bold {
+  font-weight: 800;
+  font-size: 13px;
+}
+
+.sources p {
+  font-size: 11px;
+  margin-top: 0.01em;
+  margin-bottom: 0.01em;
+  border: 'solid black 1px'
+}
+
+a {
+  /* text-decoration: none; */
+  color: gray;
+}

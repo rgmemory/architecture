@@ -1,0 +1,10 @@
+.footer {
+  border-top: solid #d3d3d3 1px;
+  padding-top: 20px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-family: arial, verdana, georgia;
+
+}
